@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anvi Resort & Spa
 
 A fully structured React + Vite single-page application for Anvi Resort & Spa,
@@ -110,3 +111,7 @@ Place these in the **project root** (served as static assets by Vite):
 | react-router-dom   | ^6.26.0  | Client-side routing            |
 | vite               | ^5.4.0   | Build tool & dev server        |
 | @vitejs/plugin-react | ^4.3.1 | React fast refresh in Vite     |
+=======
+# kartikdemo
+hotel
+>>>>>>> 69a251266123387e462cb4407aa394abdfe954a1
